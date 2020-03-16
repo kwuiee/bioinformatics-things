@@ -1,4 +1,4 @@
-# Novogene Bioinformatics Things
+# Bioinformatics Things
 
 A curated list of bioinformatics tools, frameworks, libraries, etc. Feel free to [contribute](CONTRIBUTING.md) anything.
 
@@ -84,8 +84,8 @@ A curated list of bioinformatics tools, frameworks, libraries, etc. Feel free to
 ## Programming Laguage Library
 
 - **[pysam](https://github.com/pysam-developers/pysam)**: Python wrapper for [samtools](https://github.com/samtools/samtools) 
-
 - **[rust-htslib](https://github.com/rust-bio/rust-htslib)**: HTSlib bindings and a high level Rust API for reading and writing BAM files.
+- [bam](https://gitlab.com/tprodanov/bam): Rust crate for reading and writing BAM and BGZIP files
 
 ## Data Visualization
 
