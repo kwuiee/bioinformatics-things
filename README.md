@@ -53,6 +53,8 @@ A curated list of bioinformatics tools, frameworks, libraries, etc. Feel free to
 
 - **[crest](http://www.stjuderesearch.org/site/lab/zhang)**: maps somatic structural variation in cancer genomes with base-pair resolution. [Here](https://www.nature.com/articles/nmeth.1628) is the paper.
 
+- **[breakdancer](http://breakdancer.sourceforge.net/)**: Genome-wide detection of structural variants from next generation paired-end sequencing reads. [Here](http://www.nature.com/nmeth/journal/v6/n9/abs/nmeth.1363.html) is the paper.
+
 ## Copy Number Variant Caller
 
 - **[cnvkit](https://github.com/etal/cnvkit)**: Copy number variant detection from targeted DNA sequencing.
@@ -84,8 +86,10 @@ A curated list of bioinformatics tools, frameworks, libraries, etc. Feel free to
 ## Programming Laguage Library
 
 - **[pysam](https://github.com/pysam-developers/pysam)**: Python wrapper for [samtools](https://github.com/samtools/samtools) 
+
 - **[rust-htslib](https://github.com/rust-bio/rust-htslib)**: HTSlib bindings and a high level Rust API for reading and writing BAM files.
-- [bam](https://gitlab.com/tprodanov/bam): Rust crate for reading and writing BAM and BGZIP files
+
+- **[bam](https://gitlab.com/tprodanov/bam)**: Rust crate for reading and writing BAM and BGZIP files
 
 ## Data Visualization
 
