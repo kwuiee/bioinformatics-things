@@ -2,12 +2,13 @@
 
 A curated list of bioinformatics tools, frameworks, libraries, etc. Feel free to [contribute](CONTRIBUTING.md) anything.
 
-## Command line tools
+## Command Line Tools
 
 - **[parallel](https://www.gnu.org/software/parallel)**:  GNU **parallel** is a shell tool for executing jobs in parallel using one or more computers . [Here](https://www.biostars.org/p/63816/) are some examples
 - **[xsv](https://github.com/BurntSushi/xsv)**: A fast CSV command line toolkit written in Rust 
 - **[ripgrep](https://crates.io/crates/ripgrep)**: combines the usability of The Silver Searcher with the raw speed of grep
 - **[Seqtk](https://github.com/lh3/seqtk)**: Toolkit for processing sequences in FASTA/Q formats
+- **[bedtools2](https://github.com/arq5x/bedtools2)**: The swiss army knife for genome arithmetic 
 
 ## Sequence Preprocessing
 
@@ -63,6 +64,11 @@ A curated list of bioinformatics tools, frameworks, libraries, etc. Feel free to
 - **[awesome-nextflow](https://github.com/nextflow-io/awesome-nextflow)**: A curated list of nextflow based pipelines
 - **[nf-core](https://nf-co.re/pipelines)**:  A collection of high quality Nextflow pipelines
 
+## Programming Laguage Library
+
+-  **[pysam](https://github.com/pysam-developers/pysam)**: Python wrapper for [samtools](https://github.com/samtools/samtools) 
+- **[rust-htslib](https://github.com/rust-bio/rust-htslib)**: HTSlib bindings and a high level Rust API for reading and writing BAM files.
+
 ## Data Visualization
 
 - **[d3](https://d3js.org/)**:  Bring data to life with SVG, Canvas and HTML
@@ -72,6 +78,7 @@ A curated list of bioinformatics tools, frameworks, libraries, etc. Feel free to
 - **[plotly](https://plot.ly/)**: Modern Analytic Apps for the Enterprise
 - **[bokeh]( https://bokeh.org)**: Publish Sophisticated Dashboards 
 - **[antv](https://antv.vision/)**: Liven Data Lively
+-  **[Circos](http://circos.ca/)**: Perl package for circular plots, which are well suited for genomic rearrangements 
 
 ## Others
 
