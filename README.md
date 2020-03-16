@@ -7,7 +7,7 @@ A curated list of bioinformatics tools, frameworks, libraries, etc. Feel free to
 - **[parallel](https://www.gnu.org/software/parallel)**:  GNU **parallel** is a shell tool for executing jobs in parallel using one or more computers . [Here](https://www.biostars.org/p/63816/) are some examples
 - **[xsv](https://github.com/BurntSushi/xsv)**: A fast CSV command line toolkit written in Rust 
 - **[ripgrep](https://crates.io/crates/ripgrep)**: combines the usability of The Silver Searcher with the raw speed of grep
-- **[Seqtk](https://github.com/lh3/seqtk)**: Toolkit for processing sequences in FASTA/Q formats
+- **[seqtk](https://github.com/lh3/seqtk)**: Toolkit for processing sequences in FASTA/Q formats
 - **[bedtools2](https://github.com/arq5x/bedtools2)**: The swiss army knife for genome arithmetic 
 
 ## Sequence Preprocessing
@@ -33,7 +33,7 @@ A curated list of bioinformatics tools, frameworks, libraries, etc. Feel free to
 
 ## Structural Variant Caller
 
-- **[Delly](https://github.com/dellytools/delly)**: Structural variant discovery by integrated paired-end and split-read analysis.
+- **[delly](https://github.com/dellytools/delly)**: Structural variant discovery by integrated paired-end and split-read analysis.
 - **[lumpy](https://github.com/arq5x/lumpy-sv)**: lumpy: a general probabilistic framework for structural variant discovery.
 - **[manta](https://github.com/Illumina/manta)**: Structural variant and indel caller for mapped sequencing data
 - **[crest](http://www.stjuderesearch.org/site/lab/zhang)**: maps somatic structural variation in cancer genomes with base-pair resolution. [Here](https://www.nature.com/articles/nmeth.1628) is the paper.
@@ -46,12 +46,12 @@ A curated list of bioinformatics tools, frameworks, libraries, etc. Feel free to
 
 ## Workflow Language & Manager
 
-- **[Nextflow](https://www.nextflow.io)**: A fluent DSL modelled around the UNIX pipe concept, that simplifies  writing parallel and scalable pipelines in a portable manner.
-- **[Snakemake](https://github.com/snakemake/snakemake)**:  Create **reproducible and scalable** data analyses. Workflows are described via a human readable, Python based language.
+- **[nextflow](https://www.nextflow.io)**: A fluent DSL modelled around the UNIX pipe concept, that simplifies  writing parallel and scalable pipelines in a portable manner.
+- **[snakemake](https://github.com/snakemake/snakemake)**:  Create **reproducible and scalable** data analyses. Workflows are described via a human readable, Python based language.
 - **[WDL](https://github.com/openwdl/wdl)**:  The **Workflow Description Language (WDL)** is a way to specify data processing workflows with a human-readable and writeable syntax.
 - **[CWL](https://www.commonwl.org/)**:  An open standard for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments.
-- **[Cromwell](https://github.com/broadinstitute/cromwell)**:A Workflow Management System geared towards scientific workflows.
--  **[Galaxy](https://usegalaxy.org/)** - a popular open-source, web-based platform for data intensive  biomedical research. Has several features, from data analysis to  workflow management to visualization tools.
+- **[cromwell](https://github.com/broadinstitute/cromwell)**:A Workflow Management System geared towards scientific workflows.
+- **[galaxy](https://usegalaxy.org/)** - a popular open-source, web-based platform for data intensive  biomedical research. Has several features, from data analysis to  workflow management to visualization tools.
 
 ## Pipelines
 
@@ -68,18 +68,32 @@ A curated list of bioinformatics tools, frameworks, libraries, etc. Feel free to
 ## Data Visualization
 
 - **[d3](https://d3js.org/)**:  Bring data to life with SVG, Canvas and HTML.
-- **[Echarts](https://echarts.apache.org/zh/index.html)**:  A powerful, interactive charting and visualization library.
+- **[echarts](https://echarts.apache.org/zh/index.html)**:  A powerful, interactive charting and visualization library.
 - **[matplotlib](https://matplotlib.org/)**:  Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python
 - **[ggplot2](https://ggplot2.tidyverse.org/)**: Create Elegant Data Visualisations Using the Grammar of Graphics. [Here](https://ggplot2-book.org/) is a book
 - **[plotly](https://plot.ly/)**: Modern Analytic Apps for the Enterprise
 - **[bokeh]( https://bokeh.org)**: Publish Sophisticated Dashboards 
 - **[antv](https://antv.vision/)**: Liven Data Lively
-- **[Circos](http://circos.ca/)**: Perl package for circular plots, which are well suited for genomic rearrangements.
+- **[circos](http://circos.ca/)**: Perl package for circular plots, which are well suited for genomic rearrangements.
 
 ## Database
 - **[mongodb](https://github.com/mongodb/mongo)**: A general purpose, document-based, distributed database built for modern application
 - **[mysql](https://www.mysql.com/)**: Open-Source Relational Database Management System.
 - **[leveldb](https://github.com/google/leveldb)**:  LevelDB is a fast  key-value storage library written at Google that provides an ordered  mapping from string keys to string values. 
+
+## Courses
+
+- [An Introduction to Applied Bioinformatics](http://readiab.org/)
+
+  >  An **I**ntroduction to **A**pplied **B**ioinformatics (or IAB) is a free, open source interactive text that introduces  readers to core concepts of bioinformatics in the context of their  implementation and application.
+
+- [bioinformatics](https://github.com/ossu/bioinformatics): Path to a free self-taught education in Bioinformatics! 
+
+  > This is a **solid path** for those of you who want to complete a **Bioinformatics** course on your own time, **for free**, with courses from the **best universities** in the World.
+  >
+  > In our curriculum, we give preference to MOOC (Massive Open Online  Course) style courses because these courses were created with our style  of learning in mind.
+  >
+  > To become a bioinformatician, you have to learn quite a lot of  science, so be ready for subjects like; Biology, Chemistry, etc...
 
 ## Others
 
