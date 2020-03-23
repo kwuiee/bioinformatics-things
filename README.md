@@ -83,11 +83,11 @@ A curated list of bioinformatics tools, frameworks, libraries, etc. Feel free to
 
 ## Courses
 
-- [An Introduction to Applied Bioinformatics](http://readiab.org/)
+- **[An Introduction to Applied Bioinformatics](http://readiab.org/)**
 
   >  An **I**ntroduction to **A**pplied **B**ioinformatics (or IAB) is a free, open source interactive text that introduces  readers to core concepts of bioinformatics in the context of their  implementation and application.
 
-- [bioinformatics](https://github.com/ossu/bioinformatics): Path to a free self-taught education in Bioinformatics! 
+- **[bioinformatics](https://github.com/ossu/bioinformatics)**: Path to a free self-taught education in Bioinformatics! 
 
   > This is a **solid path** for those of you who want to complete a **Bioinformatics** course on your own time, **for free**, with courses from the **best universities** in the World.
   >
